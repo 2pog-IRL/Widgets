@@ -4,29 +4,29 @@
     "name": "Colored Box",
     "description": "A colored box",
     "newInstancePrefix": "ColoredBox",
-    "icon": "./icon.png",
-    "vendor": "SAP",
+    "icon": "https://2pog-irl.github.io/Widgets/coloredbox/icon.png",
+    "vendor": "2pog",
     "eula": "",
     "license": "",
     "webcomponents": [
         {
             "kind": "main",
             "tag": "com-sap-sample-coloredbox",
-            "url": "./coloredbox.js",
+            "url": "https://2pog-irl.github.io/Widgets/coloredbox/coloredbox.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-sap-sample-coloredbox-styling",
-            "url": "./coloredbox_styling.js",
+            "url": "https://2pog-irl.github.io/Widgets/coloredbox/coloredbox_styling.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-sap-sample-coloredbox-builder",
-            "url": "./coloredbox_builder.js",
+            "url": "https://2pog-irl.github.io/Widgets/coloredbox/coloredbox_builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
